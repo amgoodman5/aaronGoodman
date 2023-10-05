@@ -3,10 +3,10 @@
     <h2
       class="mt-6 text-4xl text-gray-700 font-bold dark:text-blue-200"
     >
-      👋 My name is Aaron Goodman, and I'm a Full Stack Software Engineer.
+       My name is Aaron Goodman, and I'm a Full Stack Software Engineer.
     </h2>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">
-     Motivated software developer with a strong focus on optimizing application performance and improving user experiences through TypeScript, API development, and UI enhancements. Skilled in automating processes, streamlining workflows, and adapting to new technologies. Committed to continuous learning and staying updated with industry trends. Proficient in TypeScript, as well as a range of other technologies including REST, Express.js, JavaScript, Node.js, Angular, and PostgreSQL. Value teamwork and strive to be a positive contributor within a collaborative environment. Dedicated to creating innovative software solutions and driving team success.
+   I am an accomplished Software Engineer with extensive experience in both front-end and back-end technologies. My expertise lies in JavaScript frameworks and libraries, including TypeScript, Angular, React, Node, and Nest, complemented by strong proficiency in querying languages like SQL and PostgreSQL. My career is characterized by a keen focus on optimizing application performance, enhancing user experiences, and automating workflows. I am known for fostering camaraderie within collaborative team environments. I am a quick learner and maintain a commitment to staying current with the latest technology trends. My dedication is to creating innovative software solutions and contributing to team success. I am actively seeking a dynamic and collaborative team where I can continue to excel in software engineering and make significant contributions.
     </p>
   </div>
 </template>

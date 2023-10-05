@@ -5,6 +5,13 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: "nuxt-blog",
+    script: [
+      { src: 'https://assets.calendly.com/assets/external/widget.js', async: true },
+      { src: '/customscript.js' } // custom
+    ],
+    noscript: [
+      { innerHTML: 'Body No Scripts', body: true }
+    ],
     htmlAttrs: {
       lang: "en",
     },
@@ -38,7 +45,7 @@ export default {
   },
 
   // Modules: https://go.nuxtjs.dev/config-modules
-  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image"],
+  modules: ["@nuxt/content", "@nuxtjs/svg", "@nuxt/image", "nuxt-calendly"],
   svg: {
     vueSvgLoader: {
       // vue-svg-loader options
@@ -49,6 +56,7 @@ export default {
     fileLoader: {
       // file-loader options
     },
+    calendly:{},
   },
 
   content: {

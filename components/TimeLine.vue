@@ -7,7 +7,29 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/code.svg"
+          />
+        </span>
+        <h3
+          class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white"
+        >
+          Software Engineer @ Disaster Accountablitly Project - Volunteer
+        </h3>
+        <time
+          class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
+          >2023 - Current - Partime</time
+        >
+        <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
+        As a volunteer Angular developer, I help fix bugs, add features and enhancements to the existing platform, and contribute to an entirely new build that implements a new data-driven architecture and UI. DAP is the leading nonprofit organization that offers long-term independent oversight of disaster management systems.
+        </p>
+      </li>
+      <li class="mb-10 ml-6">
+        <span
+          class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900"
+        >
+          <img
+            class="w-3 h-3 text-blue-600 dark:text-blue-400"
+            src="~assets/icon/code.svg"
           />
         </span>
         <h3
@@ -17,7 +39,7 @@
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >2021-2023</time
+          > July 2021- June 2023</time
         >
         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
         Automated and streamlined onboarding processes, resulting in increased efficiency and reduced manual tasks. Played a key role in preparing for GA4 implementation, ensuring a smooth transition to the new analytics platform. Contributed to creating user-friendly documentation, enhancing development processes and knowledge sharing.
@@ -29,7 +51,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/code.svg"
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
@@ -57,7 +79,7 @@
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >May 2017 - November 2017
+          >May 2017 - Nov 2017
         </time>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
            Instructed students at Galvanize Web Development Immersive Course.I taught and mentored 60 students within two cohorts. Collaborated with Instructors to manage and support student needs.
@@ -70,7 +92,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/home.svg"
+            src="~assets/icon/code.svg"
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
@@ -78,7 +100,7 @@
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >January 2016 - October 2016</time
+          >Jan 2016 - Oct 2016</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
          Designed, branded and customized CMS themes for various stake holders. Collaborated with team members to build and design websites.
@@ -86,6 +108,7 @@
       </li>
     </ol>
   </div>
+  
 </template>
 
 <script>
